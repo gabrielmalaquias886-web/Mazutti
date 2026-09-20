@@ -1,0 +1,6 @@
+{
+  "name": "MZ Store | Chuteiras",
+  "description": "Biosite oficial da MZ Store. Encontre a chuteira certa para entrar em campo preparado. Atendimento exclusivo via WhatsApp e novidades no Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
